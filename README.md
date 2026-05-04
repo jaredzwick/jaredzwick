@@ -79,14 +79,4 @@ var Profile = Engineer{
 | <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" /> | **[polymarket-trading-bot](https://github.com/jaredzwick/polymarket-trading-bot)** | Automated prediction market trading engine |
 | <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" /> | **[sync](https://github.com/jaredzwick/sync)** | Go scheduling & messaging API service with OAuth and Postgres |
 
-<br/>
 
-
-
-I help software engineers break through to **$200K-$500K+ total comp** with a system built on real hiring experience -- not generic advice.
-
-<div align="center">
-
-[![Get Started](https://img.shields.io/badge/Work_With_Me-jaredzwick.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://www.jaredzwick.com)
-
-</div>
